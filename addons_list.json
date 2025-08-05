@@ -28,6 +28,13 @@
     "description": "Tracks attunement progress in inventory."
   },
   {
+    "name": "BegAlert",
+    "Author": "LiquidAP",
+    "folder": "BegAlert",
+    "repo": "https://github.com/RosemyneH/AttuneProgress.git",
+    "description": "Notifies you when an item you can attune is linked along with the words 'free' or 'anyone'"
+  },
+  {
     "name": "Droms Instance Timer",
     "Author": "Dromkal",
     "folder": "DromsInstanceTimer",
@@ -61,6 +68,13 @@
     "folder": "MehTrajectory",
     "repo": "https://github.com/SynScoots/MehTrajectory.git",
     "description": "Tracks the trajectory of movement on the map."
+  },
+  {
+    "name": "Mik's Scrolling Battle Text'",
+    "Author": "QT",
+    "folder": "MSBT",
+    "repo": "https://github.com/binnesman/MSBT.git",
+    "description": "MSBT Edit by QT to trunacate damage, for example 4.6M, 20.6K instead of 4,600,000 or 20,600"
   },
   {
     "name": "Postal",
@@ -152,6 +166,13 @@
     "folder": "SynastriaTooltipEnhancer",
     "repo": "https://github.com/binnesman/Synastria-Tooltip-Enhancer.git",
     "description": "Adds new button to the perk manager where you can export and import perks+talents."
+  },
+  {
+    "name": "TagNPC",
+    "Author": "LiquidAP",
+    "folder": "TagNPC",
+    "repo": "https://github.com/APLiquid/TagNPC.git",
+    "description": "Automatically tag enemy nameplates. Configure with /tagnpc"
   },
   {
     "name": "The Journal",
