@@ -18,7 +18,7 @@
     "Author": "Qt",
     "folder": "AttuneHelper",
     "repo": "https://github.com/RosemyneH/AttuneHelperHosting.git",
-    "description": "Auto-equips attuneable gear and more"
+    "description": "Auto-equips attuneable gear and more."
   },
   {
     "name": "AttuneProgress",
@@ -32,21 +32,21 @@
     "Author": "Dromkal",
     "folder": "DromsInstanceTimer",
     "repo": "https://github.com/binnesman/DromsInstanceTimer-1.0.0.git",
-    "description": "Tracks how many instance you've entered in the last hour"
+    "description": "Tracks how many instance you've entered in the last hour."
   },
   {
     "name": "Droms Kill Counter",
     "Author": "Dromkal",
     "folder": "DromsTrashKillCount",
     "repo": "https://github.com/binnesman/DromsKillCounter.git",
-    "description": "Queries the database to show attuneable loot in your current zone"
+    "description": "Queries the database to show attuneable loot in your current zone."
   },
   {
     "name": "ElveUI",
     "Author": "QT",
     "folder": "ElvUI",
     "repo": "https://github.com/RosemyneH/ElvUI_Attune.git",
-    "description": "ElveUI Mod for Synastria by QT"
+    "description": "ElveUI Mod for Synastria by QT."
   },
   {
     "name": "ForgedItemLinks",
@@ -74,7 +74,7 @@
     "Author": "Qt",
     "folder": "qtRoll",
     "repo": "https://github.com/RosemyneH/qtRoll.git",
-    "description": "Automatically rolls for loot while in a group"
+    "description": "Automatically rolls for loot while in a group."
   },
   {
     "name": "Scoots' Combat Attune Watch",
@@ -95,7 +95,7 @@
     "Author": "Scoots",
     "folder": "ScootsCraft",
     "repo": "https://github.com/SynScoots/ScootsCraft.git",
-    "description": "A complete overhaul of the profession UI"
+    "description": "A complete overhaul of the profession UI."
   },
   {
     "name": "Scoots' Quick Auction",
@@ -123,7 +123,7 @@
     "Author": "Scoots",
     "folder": "ScootsStats",
     "repo": "https://github.com/SynScoots/ScootsStats.git",
-    "description": "This adds a stat panel to the right of your character panel"
+    "description": "This adds a stat panel to the right of your character panel."
   },
   {
     "name": "Scoots' Vendor Filter",
@@ -144,21 +144,21 @@
     "Author": "Namira",
     "folder": "SynastriaBuildManager",
     "repo": "https://github.com/Lubricated/SynastriaBuildManager.git",
-    "description": "Adds new button to the perk manager where you can export and import perks+talents"
+    "description": "Adds new button to the perk manager where you can export and import perks+talents."
   },
   {
     "name": "Synastria Tooltip Enhancer",
     "Author": "Lulleh",
     "folder": "SynastriaTooltipEnhancer",
     "repo": "https://github.com/binnesman/Synastria-Tooltip-Enhancer.git",
-    "description": "Adds new button to the perk manager where you can export and import perks+talents"
+    "description": "Adds new button to the perk manager where you can export and import perks+talents."
   },
   {
     "name": "The Journal",
     "Author": "Qt",
     "folder": "TheJournal",
     "repo": "https://github.com/RosemyneH/TheJournal.git",
-    "description": "Dungeon Journal with Item and Boss Details"
+    "description": "Dungeon Journal with Item and Boss Details."
   },
   {
     "name": "WarpRing",
