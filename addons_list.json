@@ -49,6 +49,13 @@
     "description": "ElveUI Mod for Synastria by QT"
   },
   {
+    "name": "ForgedItemLinks",
+    "Author": "LiquidAP",
+    "folder": "ForgedItemLinks",
+    "repo": "https://github.com/APLiquid/ForgedItemLinks.git",
+    "description": "Adds coloured [Tags] to linked forged and Mythic items in chat."
+  },
+  {
     "name": "MehTrajectory",
     "Author": "Meh",
     "folder": "MehTrajectory",
