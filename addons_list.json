@@ -70,13 +70,6 @@
     "description": "Tracks the trajectory of movement on the map."
   },
   {
-    "name": "Mik's Scrolling Battle Text'",
-    "Author": "QT",
-    "folder": "MSBT",
-    "repo": "https://github.com/binnesman/MSBT.git",
-    "description": "MSBT Edit by QT to trunacate damage, for example 4.6M, 20.6K instead of 4,600,000 or 20,600"
-  },
-  {
     "name": "Postal",
     "Author": "Lulleh",
     "folder": "Postal",
