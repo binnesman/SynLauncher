@@ -84,6 +84,13 @@
     "description": "Automatically rolls for loot while in a group."
   },
   {
+    "name": "RaajikWarpAlias",
+    "Author": "Raajik",
+    "folder": "RaajikWarpAlias",
+    "repo": "https://github.com/Raajik/RaajikWarpAlias.git",
+    "description": "To use, type /warp <2-12 characters of your destination> and the addon will attempt to auto-complete your warp's location if learned."
+  },
+  {
     "name": "Scoots' Combat Attune Watch",
     "Author": "Scoots",
     "folder": "ScootsCombatAttuneWatch",
