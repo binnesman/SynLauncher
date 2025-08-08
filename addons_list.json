@@ -70,6 +70,13 @@
     "description": "Tracks the trajectory of movement on the map."
   },
   {
+    "name": "MSBT",
+    "Author": "Mikord / QT",
+    "folder": "MSBT",
+    "repo": "https://github.com/binnesman/MSBT.git",
+    "description": "MSBT with truncated damage. E.G. 4,623,249 --> 4.6M"
+  },
+  {
     "name": "Postal",
     "Author": "Lulleh",
     "folder": "Postal",
