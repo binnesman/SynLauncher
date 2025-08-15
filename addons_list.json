@@ -189,6 +189,13 @@
     "description": "Dungeon Journal with Item and Boss Details."
   },
   {
+    "name": "VendorForgeList",
+    "Author": "LiquidAP",
+    "folder": "VendorForgeList",
+    "repo": "https://github.com/APLiquid/VendorForgeList.git",
+    "description": "VendorForgeList is a lightweight Synastria addon that allows you to find and filter attunable vendor items."
+  },
+  {
     "name": "WarpRing",
     "Author": "Namira",
     "folder": "WarpRing",
