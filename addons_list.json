@@ -63,6 +63,13 @@
     "description": "Adds coloured [Tags] to linked forged and Mythic items in chat."
   },
   {
+    "name": "GoldTracker",
+    "Author": "Skarz",
+    "folder": "GoldTracker",
+    "repo": "https://github.com/binnesman/GoldTracker.git",
+    "description": "Simple Gold per hour tracker. Resets on instance load."
+  },
+  {
     "name": "MehTrajectory",
     "Author": "Meh",
     "folder": "MehTrajectory",
@@ -193,7 +200,7 @@
     "Author": "LiquidAP",
     "folder": "VendorForgeList",
     "repo": "https://github.com/APLiquid/VendorForgeList.git",
-    "description": "VendorForgeList is a lightweight Synastria addon that allows you to find and filter attunable vendor items."
+    "description": "VendorForgeList is a lightweight Synastria addon that allows you to find and filter attunable vendor items. Usage: /vfl"
   },
   {
     "name": "WarpRing",
