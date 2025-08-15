@@ -101,7 +101,7 @@
     "name": "qtUITweaks",
     "Author": "Qt",
     "folder": "qtUITweaks",
-    "repo": "https://github.com/RosemyneH/qtUITweaks.git",
+    "repo": "https://github.com/RosemyneH/qtUITweaks/releases/download/v1/qtUITweaks.zip",
     "description": "Enhances Synastria base interfaces."
   },
   {
