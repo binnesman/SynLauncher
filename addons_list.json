@@ -98,6 +98,13 @@
     "description": "Automatically rolls for loot while in a group."
   },
   {
+    "name": "qtUITweaks",
+    "Author": "Qt",
+    "folder": "qtUITweaks",
+    "repo": "https://github.com/RosemyneH/qtUITweaks.git",
+    "description": "Enhances Synastria base interfaces."
+  },
+  {
     "name": "RaajikWarpAlias",
     "Author": "Raajik",
     "folder": "RaajikWarpAlias",
