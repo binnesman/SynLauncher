@@ -91,6 +91,13 @@
     "description": "Postal mod x10 faster 'Open All' speed."
   },
   {
+    "name": "Pretty Loot Alert",
+    "Author": "nimrhen, QT, Lulleh",
+    "folder": "pretty_lootalert",
+    "repo": "https://github.com/nimrhen/pretty_lootalert_synastria.git",
+    "description": "Toast style alerts for attuneable items/forges, crafting recipes, etc. Edit config.lua to filter alerts."
+  },
+  {
     "name": "Qt's Auto-Roller",
     "Author": "Qt",
     "folder": "qtRoll",
