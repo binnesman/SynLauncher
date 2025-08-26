@@ -7,6 +7,20 @@
     "description": "Adds support for attunements."
   },
   {
+    "name": "ArkInventory Item Levels",
+    "Author": "Xayia",
+    "folder": "ArkInventory_ItemLevel_Xayia",
+    "repo": "https://github.com/Xayia/ItemLevel-Mod-for-ArkInventory.git",
+    "description": "A tiny extension for ArkInventory that overlays the item level on item buttons inside ArkInventory. Requires ArkInventory."
+  },
+  {
+    "name": "ArkInventory Tint Mod",
+    "Author": "Xayia",
+    "folder": "ArkInventory_Tint_Xayia",
+    "repo": "https://github.com/Xayia/Tint-Mod-for-ArkInventory.git",
+    "description": "Adds a clear red tint overlay to items in ArkInventory, based on the types you select. Requires ArkInventory."
+  },
+  {
     "name": "AtlasLoot Mythic",
     "Author": "imevul",
     "folder": "AtlasLoot_Mythic",
