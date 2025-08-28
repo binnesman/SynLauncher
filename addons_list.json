@@ -60,7 +60,14 @@
     "Author": "Dromkal",
     "folder": "DromsTrashKillCount",
     "repo": "https://github.com/binnesman/DromsKillCounter.git",
-    "description": "Queries the database to show attuneable loot in your current zone."
+    "description": "Shows a count of creatures killed. Resets on zone change"
+  },
+  {
+    "name": "Dual Class Colors",
+    "Author": "Lulleh",
+    "folder": "Class Colors",
+    "repo": "https://github.com/binnesman/Dual-Class-Colors.git",
+    "description": "Custom Class colors for dual class characters in chat/UI. Not compatible with ElveUI."
   },
   {
     "name": "ElveUI",
