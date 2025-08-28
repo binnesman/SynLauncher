@@ -91,6 +91,13 @@
     "description": "Simple Gold per hour tracker. Resets on instance load."
   },
   {
+    "name": "Mapster Fix",
+    "Author": "Lulleh",
+    "folder": "MapsterFindThing",
+    "repo": "https://github.com/binnesman/MapsterFix.git",
+    "description": "Reallignment for the map finder for Mapster. Usage Examples: /ft x -220.5  or  /ft y -1"
+  },
+  {
     "name": "MehTrajectory",
     "Author": "Meh",
     "folder": "MehTrajectory",
