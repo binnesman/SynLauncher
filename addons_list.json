@@ -77,6 +77,13 @@
     "description": "ElveUI Mod for Synastria by QT."
   },
   {
+    "name": "Forge Filter",
+    "Author": "Xayia",
+    "folder": "ForgeFilter",
+    "repo": "https://github.com/Xayia/AH-ForgeFilter.git",
+    "description": "A lightweight addon that helps you quickly find and filter Forged and Mythic items in the Auction House"
+  },
+  {
     "name": "ForgedItemLinks",
     "Author": "LiquidAP",
     "folder": "ForgedItemLinks",
