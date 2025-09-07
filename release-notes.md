@@ -1,3 +1,6 @@
+## v1.2.4
+- Pointers updated to /binnesman
+
 ## v1.1.4
 - Additional fixes for auto-update
 
