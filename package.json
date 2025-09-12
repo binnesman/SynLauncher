@@ -1,6 +1,6 @@
 {
   "name": "synastria-launcher",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "main": "main.js",
   "description": "Simple Electron launcher for Synastria WoW",
   "scripts": {
@@ -30,6 +30,7 @@
     "yauzl": "^2.10.0"
   },
   "devDependencies": {
+    "@electron-forge/cli": "^7.9.0",
     "electron": "^25.9.8",
     "electron-builder": "^26.0.12",
     "electron-packager": "^17.1.2"
