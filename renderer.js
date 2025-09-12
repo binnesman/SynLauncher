@@ -381,7 +381,7 @@ function showPlayButton(clientDir) {
 
     // Addons panel header
     const header = document.createElement('div');
-    header.textContent = 'Manage Addons';
+    header.textContent = '[AI] Warning: Addons tagged with [AI] have a higher likelyhood of memory leaks!';
     header.style.fontSize = '1.3rem';
     header.style.fontWeight = '600';
     header.style.color = '#fff';

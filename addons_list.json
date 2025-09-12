@@ -42,13 +42,6 @@
     "description": "Tracks attunement progress in inventory."
   },
   {
-    "name": "BegAlert",
-    "Author": "LiquidAP",
-    "folder": "BegAlert",
-    "repo": "https://github.com/RosemyneH/AttuneProgress.git",
-    "description": "Notifies you when an item you can attune is linked along with the words 'free' or 'anyone'"
-  },
-  {
     "name": "Droms Instance Timer",
     "Author": "Dromkal",
     "folder": "DromsInstanceTimer",
@@ -63,7 +56,7 @@
     "description": "Tracks creature kills. Resets when entering a dungeon/raid"
   },
   {
-    "name": "Dual Class Colors",
+    "name": "[AI] Dual Class Colors",
     "Author": "Lulleh",
     "folder": "Class Colors",
     "repo": "https://github.com/binnesman/Dual-Class-Colors.git",
@@ -98,7 +91,7 @@
     "description": "Simple Gold per hour tracker. Resets on instance load."
   },
   {
-    "name": "Mapster Fix",
+    "name": "[AI] Mapster Fix",
     "Author": "Lulleh",
     "folder": "MapsterFindThing",
     "repo": "https://github.com/binnesman/MapsterFix.git",
@@ -210,21 +203,21 @@
     "description": "Continuously purchase vendor items until forged."
   },
   {
-    "name": "Synastria Build Manager",
+    "name": "[AI] Synastria Build Manager",
     "Author": "Namira",
     "folder": "SynastriaBuildManager",
     "repo": "https://github.com/Lubricated/SynastriaBuildManager.git",
     "description": "Adds new button to the perk manager where you can export and import perks+talents."
   },
   {
-    "name": "Synastria Tooltip Enhancer",
+    "name": "[AI] Synastria Tooltip Enhancer",
     "Author": "Lulleh",
     "folder": "SynastriaTooltipEnhancer",
     "repo": "https://github.com/binnesman/Synastria-Tooltip-Enhancer.git",
     "description": "Adds new button to the perk manager where you can export and import perks+talents."
   },
   {
-    "name": "TagNPC",
+    "name": "[AI] TagNPC",
     "Author": "LiquidAP",
     "folder": "TagNPC",
     "repo": "https://github.com/APLiquid/TagNPC.git",
@@ -238,7 +231,7 @@
     "description": "Dungeon Journal with Item and Boss Details."
   },
   {
-    "name": "VendorForgeList",
+    "name": "[AI] VendorForgeList",
     "Author": "LiquidAP",
     "folder": "VendorForgeList",
     "repo": "https://github.com/APLiquid/VendorForgeList.git",
