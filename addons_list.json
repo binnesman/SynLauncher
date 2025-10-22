@@ -46,14 +46,7 @@
     "Author": "Dromkal",
     "folder": "DromsInstanceTimer",
     "repo": "https://github.com/binnesman/DromsInstanceTimer-1.0.0.git",
-    "description": "Tracks how many instance you've entered in the last hour."
-  },
-  {
-    "name": "Droms Kill Counter",
-    "Author": "Dromkal",
-    "folder": "DromsTrashKillCount",
-    "repo": "https://github.com/binnesman/DromsKillCounter.git",
-    "description": "Tracks creature kills. Resets when entering a dungeon/raid"
+    "description": "Tracks how many instance you've entered in the last hour. Usage: /dit"
   },
   {
     "name": "[AI] Dual Class Colors",
@@ -84,25 +77,11 @@
     "description": "Adds coloured [Tags] to linked forged and Mythic items in chat."
   },
   {
-    "name": "GoldTracker",
-    "Author": "Skarz",
-    "folder": "GoldTracker",
-    "repo": "https://github.com/binnesman/GoldTracker.git",
-    "description": "Simple Gold per hour tracker. Resets on instance load."
-  },
-  {
     "name": "[AI] Mapster Fix",
     "Author": "Lulleh",
     "folder": "MapsterFindThing",
     "repo": "https://github.com/binnesman/MapsterFix.git",
     "description": "Reallignment for the map finder for Mapster. Usage Examples: /ft x -220.5  or  /ft y -1"
-  },
-  {
-    "name": "MehTrajectory",
-    "Author": "Meh",
-    "folder": "MehTrajectory",
-    "repo": "https://github.com/SynScoots/MehTrajectory.git",
-    "description": "Tracks the trajectory of movement on the map."
   },
   {
     "name": "MSBT",
@@ -133,18 +112,18 @@
     "description": "Enhances Synastria base interfaces."
   },
   {
+    "name": "Questie",
+    "Author": "Netrinil",
+    "folder": "Questie-335",
+    "repo": "https://github.com/Netrinil/Questie-335.git",
+    "description": "Backport of Questie to work on 3.3.5a, further modified for Synastria features by Netrinil."
+  },
+  {
     "name": "RaajikWarpAlias",
     "Author": "Raajik",
     "folder": "RaajikWarpAlias",
     "repo": "https://github.com/Raajik/RaajikWarpAlias.git",
     "description": "To use, type /warp <2-12 characters of your destination> and the addon will attempt to auto-complete your warp's location if learned."
-  },
-  {
-    "name": "Scoots' Combat Attune Watch",
-    "Author": "Scoots",
-    "folder": "ScootsCombatAttuneWatch",
-    "repo": "https://github.com/SynScoots/ScootsCombatAttuneWatch.git",
-    "description": "Tracks attunement progress in combat."
   },
   {
     "name": "Scoots' Confirmation Skip",
@@ -214,14 +193,7 @@
     "Author": "Lulleh",
     "folder": "SynastriaTooltipEnhancer",
     "repo": "https://github.com/binnesman/Synastria-Tooltip-Enhancer.git",
-    "description": "Adds new button to the perk manager where you can export and import perks+talents."
-  },
-  {
-    "name": "[AI] TagNPC",
-    "Author": "LiquidAP",
-    "folder": "TagNPC",
-    "repo": "https://github.com/APLiquid/TagNPC.git",
-    "description": "Automatically tag enemy nameplates. Configure with /tagnpc"
+    "description": "Adds Tier and Redeem location to Tier tokens, flashing attune xp for visibility."
   },
   {
     "name": "The Journal",
