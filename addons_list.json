@@ -70,7 +70,7 @@
     "description": "A lightweight addon that helps you quickly find and filter Forged and Mythic items in the Auction House"
   },
   {
-    "name": "ForgedItemLinks",
+    "name": "[AI] ForgedItemLinks",
     "Author": "LiquidAP",
     "folder": "ForgedItemLinks",
     "repo": "https://github.com/APLiquid/ForgedItemLinks.git",
@@ -201,6 +201,13 @@
     "folder": "TheJournal",
     "repo": "https://github.com/RosemyneH/TheJournal.git",
     "description": "Dungeon Journal with Item and Boss Details."
+  },
+  {
+    "name": "TradeSkillInfo",
+    "Author": "Netrinil",
+    "folder": "TradeskillInfo-main",
+    "repo": "https://github.com/Netrinil/TradeskillInfo.git",
+    "description": "TradeSkillInfo addon with feature to show all required resource for remaining attunables."
   },
   {
     "name": "[AI] VendorForgeList",
