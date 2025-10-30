@@ -203,6 +203,13 @@
     "description": "Dungeon Journal with Item and Boss Details."
   },
   {
+    "name": "TradeSkillInfo",
+    "Author": "Netrinil",
+    "folder": "TradeskillInfo-main",
+    "repo": "https://github.com/Netrinil/TradeskillInfo.git",
+    "description": "TradeSkillInfo addon with feature to show all required resource for remaining attunables."
+  },
+  {
     "name": "[AI] VendorForgeList",
     "Author": "LiquidAP",
     "folder": "VendorForgeList",
