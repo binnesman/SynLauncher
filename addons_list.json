@@ -112,13 +112,6 @@
     "description": "Enhances Synastria base interfaces."
   },
   {
-    "name": "Questie Test",
-    "Author": "Netrinil",
-    "folder": "Questie-335",
-    "repo": "https://github.com/binnesman/Questie-335.git",
-    "description": "Testing"
-  },
-  {
     "name": "RaajikWarpAlias",
     "Author": "Raajik",
     "folder": "RaajikWarpAlias",
