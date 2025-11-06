@@ -112,13 +112,6 @@
     "description": "Enhances Synastria base interfaces."
   },
   {
-    "name": "Questie",
-    "Author": "Netrinil",
-    "folder": "Questie-335",
-    "repo": "https://github.com/Netrinil/Questie-335.git",
-    "description": "Backport of Questie to work on 3.3.5a, further modified for Synastria features by Netrinil."
-  },
-  {
     "name": "RaajikWarpAlias",
     "Author": "Raajik",
     "folder": "RaajikWarpAlias",
